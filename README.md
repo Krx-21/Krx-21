@@ -1,9 +1,9 @@
 ## 👋 About Me
 
-Hi there! I'm **Kritchaya Chaowajareun**, a passionate student currently pursuing a degree in **[Computer Engineering and Digital Technology] (CEDT 02)** at **Chulalongkorn University (INTANIA 108)**.
+Hi there! I'm **Kritchaya Chaowajareun**, a passionate student currently pursuing a degree in **Computer Engineering and Digital Technology (CEDT 02)** at **Chulalongkorn University (INTANIA 108)**.
 
 🎓 **Education:**
-*   Chulalongkorn University (INTANIA 108) - [Computer Engineering and Digital Technology] (CEDT 02)
+*   Chulalongkorn University (INTANIA 108) - Computer Engineering and Digital Technology (CEDT 02)
 *   Princess Chulabhorn Science High School Satun (PCSHSST 24, 27)
 
 💡 **Interests:**
