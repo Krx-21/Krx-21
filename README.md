@@ -1,31 +1,32 @@
-## About me 👋
+## 👋 About Me
 
-```
-I'm Kritchaya Chaowajareun 
-PCSHSST 24, 27;  
-CU INTANIA 108 ( CEDT 02 );
-```
+Hi there! I'm **Kritchaya Chaowajareun**, a passionate student currently pursuing a degree in **[Computer Engineering and Digital Technology] (CEDT 02)** at **Chulalongkorn University (INTANIA 108)**.
 
-Coding Skills - 💻
-```
- .cpp
- .c
- .py
- .html
- .css
-```
+🎓 **Education:**
+*   Chulalongkorn University (INTANIA 108) - [Computer Engineering and Digital Technology] (CEDT 02)
+*   Princess Chulabhorn Science High School Satun (PCSHSST 24, 27)
 
-<!--
-**Krx-21/Krx-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **Interests:**
+*   Software Development
+*   Data Science
+*   Machine Learning
+*   Game Development (Unity) - *Developed a game connecting physical therapy equipment for patient engagement.*
 
-Here are some ideas to get you started:
+🎮 **Hobbies:**
+*   Playing Games
+*   Exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack & Skills
+
+*   **Languages:** C++, C, Python, HTML, CSS, JavaScript
+*   **Game Engines:** Unity
+
+---
+
+
+### 📫 How to Reach Me
+
+*   **Email:** godofsoul21@gmail.com || 6733007821@student.chula.ac.th
+
