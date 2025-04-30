@@ -6,6 +6,16 @@ PCSHSST 24, 27;
 CU INTANIA 108 ( CEDT 02 );
 ```
 
+Coding Skills - 💻
+```
+* .cpp
+* .c
+* .py
+* .html
+* .css
+* Data science
+* Unity
+```
 <!--
 **Krx-21/Krx-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
