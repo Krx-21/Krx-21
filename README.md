@@ -20,7 +20,7 @@ Hi there! I'm **Kritchaya Chaowajareun**, a passionate student currently pursuin
 
 ### 💻 Tech Stack & Skills
 
-*   **Languages:** C++, C, Python, HTML, CSS, JavaScript
+*   **Languages:** C++, C, Python, HTML, CSS, JavaScript, java
 *   **Game Engines:** Unity
 
 ---
