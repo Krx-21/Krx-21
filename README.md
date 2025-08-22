@@ -28,5 +28,5 @@ Hi there! I'm **Kritchaya Chaowajareun**, a passionate student currently pursuin
 
 ### 📫 How to Reach Me
 
-*   **Email:** godofsoul21@gmail.com || 6733007821@student.chula.ac.th
+*   **Email:** 6733007821@student.chula.ac.th
 
