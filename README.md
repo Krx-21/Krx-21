@@ -4,7 +4,7 @@ Hi there! I'm **Kritchaya Chaowajareun**, a passionate student currently pursuin
 
 🎓 **Education:**
 *   Chulalongkorn University (INTANIA 108) - Computer Engineering and Digital Technology (CEDT 02)
-*   Princess Chulabhorn Science High School Satun (PCSHSST 24, 27)
+*   Princess Chulabhorn Science High School Satun (PCSHSST 27)
 
 💡 **Interests:**
 *   Software Development
